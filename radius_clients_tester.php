@@ -1,5 +1,5 @@
 <?php
-register_menu("Radius Client Tester", true, "radius_client_tester", 'SETTINGS', '');
+register_menu("Radius Client Tester", true, "radius_client_tester", 'RADIUS', '');
 
 function radius_client_tester()
 {
